@@ -1,0 +1,15 @@
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\bin\Debug\net7.0\dotnet-workspace.exe
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\bin\Debug\net7.0\dotnet-workspace.deps.json
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\bin\Debug\net7.0\dotnet-workspace.runtimeconfig.json
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\bin\Debug\net7.0\dotnet-workspace.dll
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\bin\Debug\net7.0\dotnet-workspace.pdb
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.AssemblyInfoInputs.cache
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.AssemblyInfo.cs
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.dll
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\refint\dotnet-workspace.dll
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.pdb
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\dotnet-workspace.genruntimeconfig.cache
+C:\Users\otavi\OneDrive\Documentos\dotnet-workspace\obj\Debug\net7.0\ref\dotnet-workspace.dll
